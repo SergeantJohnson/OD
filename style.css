@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+    
+    
+}
+
+.heading{
+    background-color:lightseagreen;
+    margin-top: 0;
+    text-align: center;
+    color:mistyrose;
+}
+
+button{
+width:40%;
+background-color: coral;
+color:whitesmoke;
+height:30px;
+font-size: 100px;
+
+}

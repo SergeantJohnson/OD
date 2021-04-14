@@ -1,0 +1,39 @@
+#heading{
+    background-color: black;
+    line-height: 3;
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 100px;
+    font-weight: 900 ;
+    margin-bottom: 50px;
+    color: firebrick;
+    
+}
+
+body{
+    text-align: center;
+    background-size: cover;
+}
+
+#status{
+    background-color: teal;
+    width:fit-content;
+    border-radius: 4px;
+    
+}
+
+#objects{
+    width:fit-content;
+    border-radius: 4px;
+   
+}
+
+canvas{
+    border: chartreuse ridge 5px;
+    margin-top:50px;
+}
+
+button{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}

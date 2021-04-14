@@ -1,0 +1,19 @@
+h1{
+    background-color: dodgerblue;
+    font-size: 50px;
+}
+
+body{
+    text-align: center;
+    background-size: cover;
+}
+
+h3{
+    background-color: teal;
+    width:fit-content;
+    border-radius: 4px;
+}
+
+canvas{
+    border: chartreuse ridge 5px;
+}
